@@ -27,7 +27,7 @@ Swift 将现代编程语言的精华和苹果工程师文化的智慧结合了�
 
 
 [![Swift2 compatible](https://img.shields.io/badge/swift2-compatible-4BC51D.svg?style=flat)](https://developer.apple.com/swift/)
-
+[![Swift 2.0](https://img.shields.io/badge/Swift-2.0-orange.svg?style=flat)](https://developer.apple.com/swift/)
 
 
 # Contact
