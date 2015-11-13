@@ -32,7 +32,7 @@ Swift 将现代编程语言的精华和苹果工程师文化的智慧结合了�
 
 # Contact
 * Twitter:  [LiuChuan_](https://twitter.com/LiuChuan_)
-
+* QQ:  93428739
 
 # License
 FSCalendar is available under the MIT license. See the LICENSE file for more info.
